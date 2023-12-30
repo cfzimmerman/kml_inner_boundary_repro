@@ -1,0 +1,269 @@
+KmlDocument(
+    KmlDocument {
+        version: Unknown,
+        attrs: {},
+        elements: [
+            Document {
+                attrs: {
+                    "id": "Inner Boundaries",
+                },
+                elements: [
+                    Element(
+                        Element {
+                            name: "name",
+                            attrs: {},
+                            content: Some(
+                                "Inner Boundaries",
+                            ),
+                            children: [],
+                        },
+                    ),
+                    Folder {
+                        attrs: {
+                            "id": "Main",
+                        },
+                        elements: [
+                            Element(
+                                Element {
+                                    name: "name",
+                                    attrs: {},
+                                    content: Some(
+                                        "Main",
+                                    ),
+                                    children: [],
+                                },
+                            ),
+                            Placemark(
+                                Placemark {
+                                    name: None,
+                                    description: None,
+                                    geometry: Some(
+                                        MultiGeometry(
+                                            MultiGeometry {
+                                                geometries: [
+                                                    Polygon(
+                                                        Polygon {
+                                                            outer: LinearRing {
+                                                                coords: [
+                                                                    Coord {
+                                                                        x: -119.96771397,
+                                                                        y: 47.28771591700007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.978311863,
+                                                                        y: 47.29000436700005,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.981489632,
+                                                                        y: 47.28360330300006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.979793009,
+                                                                        y: 47.28206086000006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.979116839,
+                                                                        y: 47.28105878100007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.975467844,
+                                                                        y: 47.27666271700008,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.97267113,
+                                                                        y: 47.27358287100003,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.9640008809999,
+                                                                        y: 47.27373902600004,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.9690403819999,
+                                                                        y: 47.27729099900006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.965202518,
+                                                                        y: 47.27741247500006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.966268628,
+                                                                        y: 47.28171261500006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.966266191,
+                                                                        y: 47.28244850400006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.965295034,
+                                                                        y: 47.28243991900007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.964579295,
+                                                                        y: 47.28242845500006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.964726422,
+                                                                        y: 47.28346507200007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.965814184,
+                                                                        y: 47.28370789700006,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.966079027,
+                                                                        y: 47.28468603300007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.9645039,
+                                                                        y: 47.28463180400007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.964618792,
+                                                                        y: 47.28617503200007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.9658191939999,
+                                                                        y: 47.28771226200007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                    Coord {
+                                                                        x: -119.96771397,
+                                                                        y: 47.28771591700007,
+                                                                        z: Some(
+                                                                            0.0,
+                                                                        ),
+                                                                    },
+                                                                ],
+                                                                extrude: false,
+                                                                tessellate: false,
+                                                                altitude_mode: ClampToGround,
+                                                                attrs: {},
+                                                            },
+                                                            inner: [
+                                                                LinearRing {
+                                                                    coords: [
+                                                                        Coord {
+                                                                            x: -119.9721057199999,
+                                                                            y: 47.27641125900004,
+                                                                            z: Some(
+                                                                                0.0,
+                                                                            ),
+                                                                        },
+                                                                        Coord {
+                                                                            x: -119.971627142,
+                                                                            y: 47.27662949800003,
+                                                                            z: Some(
+                                                                                0.0,
+                                                                            ),
+                                                                        },
+                                                                        Coord {
+                                                                            x: -119.971311267,
+                                                                            y: 47.27637606200005,
+                                                                            z: Some(
+                                                                                0.0,
+                                                                            ),
+                                                                        },
+                                                                        Coord {
+                                                                            x: -119.972114453,
+                                                                            y: 47.27619933700004,
+                                                                            z: Some(
+                                                                                0.0,
+                                                                            ),
+                                                                        },
+                                                                        Coord {
+                                                                            x: -119.9721057199999,
+                                                                            y: 47.27641125900004,
+                                                                            z: Some(
+                                                                                0.0,
+                                                                            ),
+                                                                        },
+                                                                    ],
+                                                                    extrude: false,
+                                                                    tessellate: false,
+                                                                    altitude_mode: ClampToGround,
+                                                                    attrs: {},
+                                                                },
+                                                            ],
+                                                            extrude: false,
+                                                            tessellate: false,
+                                                            altitude_mode: ClampToGround,
+                                                            attrs: {},
+                                                        },
+                                                    ),
+                                                ],
+                                                attrs: {},
+                                            },
+                                        ),
+                                    ),
+                                    attrs: {
+                                        "id": "1",
+                                    },
+                                    children: [],
+                                },
+                            ),
+                        ],
+                    },
+                ],
+            },
+        ],
+    },
+)
