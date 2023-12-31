@@ -137,10 +137,23 @@ dependencies = [
 ]
 
 [[package]]
+name = "kml"
+version = "0.8.4"
+source = "git+https://github.com/cfzimmerman/kml.git?branch=support-multi-innerBoundaryIs#d1f67d865be07897c7543209d8845d7a9e623561"
+dependencies = [
+ "geo-types",
+ "num-traits",
+ "quick-xml",
+ "thiserror",
+ "zip",
+]
+
+[[package]]
 name = "kml_inner_boundary_repro"
 version = "0.1.0"
 dependencies = [
- "kml",
+ "kml 0.8.4 (registry+https://github.com/rust-lang/crates.io-index)",
+ "kml 0.8.4 (git+https://github.com/cfzimmerman/kml.git?branch=support-multi-innerBoundaryIs)",
 ]
 
 [[package]]
